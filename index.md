@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------
-github    : https://github.com/casualwriter
-title     : Casualwriter
+github    : https://github.com/forkingengineer 
+title     : supa
 menu      :    
   Home            : index.md
   Blog            : ./blog
@@ -28,9 +28,9 @@ h2, h3 { color:skyblue!important }
   xhr.send();  
 </script>  
 
-## About Casualwriter
+## About UPTOPIA 
 
-Welcome to the page of [Casualwriter](https://github.com/casualwriter).
+Welcome to the page of [Casualwriter](https://github.com/forkingengineer).
 
 Casualwriter is an old programmer like all simple things. 
 He believes simplicity is most close to truth, but most difficult to close.
@@ -46,11 +46,11 @@ Javascript ES6, sync-mode interface, code-and-play, etc..
 + powerchrome-db-schema (in development)
 + powerchrome-db-report (in development)
 
-[casual-markdown](#casual-markdown) - a regexp-base markdown parser (javascript)
+[casual-markdown](#supa-markdown) - a regexp-base markdown parser (javascript)
 
-+ [casual-markdown-doc](#casual-markdown-doc) - markdown as documenation
-+ [casual-markdown-Page](#casual-markdown-page) - markdown as web page/site
-+ [casual-markdown-Blog](#casual-markdown-blog) - markdown as blog
++ [casual-markdown-doc](#supa-markdown-doc) - markdown as documenation
++ [casual-markdown-Page](#supa-markdown-page) - markdown as web page/site
++ [casual-markdown-Blog](#supa-markdown-blog) - markdown as blog
 + [casual-markdown-cv](#casual-markdown-cv) - markdown resume
 
 [powerpage](#powerpage) - a lightweight protable IE-based web browser for html/javascript application (pb-10.5)
@@ -67,7 +67,7 @@ Javascript ES6, sync-mode interface, code-and-play, etc..
    
 ## PowerChrome for Desktop Application {powerchrome}
 
-[PowerChrome](https://github.com/casualwriter/powerchrome)
+[PowerChrome](https://github.com/forkingengineer/powerchrome)
  is a portable chromimum-base (cef) web browser for html/javascript desktop application development.
 
 ![](./powerchrome/powerchrome.jpg) 
@@ -100,11 +100,11 @@ Example of PowerChome-Javascript-Interface:
    
 ## Casual-Markdown  {casual-markdown}
 
-[casual-markdown](https://github.com/casualwriter/casual-markdown) 
+[casual-markdown](https://github.com/forkingengineer/supa-markdown) 
 is a super lightweight RegExp-based markdown parser, with TOC and scrollspy support
 
 It is a simple javascript library in 190 vanilla code, support all basic syntax, 
-and some [extended syntax]((https://casualwriter.github.io/casual-markdown/casual-markdown-syntax.html)). 
+and some [extended syntax]((https://forkingengineer.github.io/-markdown/supa-markdown-syntax.html)). 
 
 "lightweight, simple" is the source of the power of the small libary. 
 
@@ -122,7 +122,7 @@ to use it in html page, just include the file of `casual-markdown.js` and `casua
    
 ### casual-markdown-doc {casual-markdown-doc}
 
-[casual-markdown-doc](https://github.com/casualwriter/casual-markdown-doc) 
+[casual-markdown-doc](https://github.com/forkingengineer/supa-markdown-doc) 
 is a handy solution to use markdown as html document. 
 
 just add 4 line code in the header, make markdown document into a well-look web page.
@@ -142,13 +142,13 @@ content in markdown format
 ~~~
 
 For example: document of `Casual-Markdown Syntax` 
-  [layout](https://casualwriter.github.io/casual-markdown/casual-markdown-syntax.html), 
-  [source](https://github.com/casualwriter/casualwriter.github.io/blob/main/casual-markdown/casual-markdown-syntax.html)
+  [layout](https://forkingengineer.github.io/supa-markdown/supa-markdown-syntax.html), 
+  [source](https://github.com/forkingengineer/forkingengineer.github.io/blob/main/supa-markdown/supa-markdown-syntax.html)
     
 
 ### casual-markdown-page  {casual-markdown-page}
 
-[casual-markdown-page](https://github.com/casualwriter/casual-markdown-page) 
+[casual-markdown-page](https://github.com/forkingengineer/supa-markdown-page) 
 directly use markdown files as web page or web site (i.e. markdown-as-webpage).
 
 It is single html file index.html to load markdown file into web page by the syntax of 
@@ -162,7 +162,7 @@ by the way, this site is built by casual-markdown-page.
    
 ### casual-markdown-blog   {casual-markdown-blog}
 
-[casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) 
+[casual-markdown-blog](https://github.com/forkingengineer/supa-markdown-blog) 
 build static blog site by markdown files and single ``index.html``.
 
 * `index.html` is the only program for the blog site
@@ -174,16 +174,16 @@ very handy to host on github-page, or other static web hosting.
 
 ### casual-markdown-cv   {casual-markdown-cv}
 
-[casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv) 
+[casual-markdown-cv](https://github.com/forkingengineer/supa-markdown-cv) 
 is a simple solution for markdown online resume. It also fit for other purpose, e.g. document, agenda, etc..
 
-![](casual-markdown/casual-markdown-cv.png)
+![](supa-markdown/supa-markdown-cv.png)
   
   
   
 ## Powerpage for Desktop Application
 
-[PowerPage](https://github.com/casualwriter/powerpage) 
+[PowerPage](https://github.com/forkingengineer/powerpage) 
 is a lightweight IE-based web browser for html/javascript desktop application development.
 
 ![Powerpage Preview](powerpage/powerpage.gif "width=80%")
@@ -201,7 +201,7 @@ It is a portable solution, lightweight (about 5M), single executable file, code-
   
 ### Powerpage Markdown Editor
 
-[powerpage-md-editor](https://github.com/casualwriter/powerpage-md-editor) 
+[powerpage-md-editor](https://github.com/forkingengineer/powerpage-md-editor) 
 is a lightweight markdown editor using [*simplemde-markdown-editor*](https://github.com/sparksuite/simplemde-markdown-editor). 
  
 It is a simple javascript/html application demonstrating developing application using `Powerpage`.
@@ -211,7 +211,7 @@ It is a simple javascript/html application demonstrating developing application 
   
 ### Powerpage Web Crawler
 
-[Powerpage Web Crawler](https://github.com/casualwriter/powerpage-web-crawler) 
+[Powerpage Web Crawler](https://github.com/forkingengineer/powerpage-web-crawler) 
 is a lightweight web crawler using `Powerpage`. It is a handy web crawler suitable for blog site 
 crawling and offline-reading. 
 
@@ -227,13 +227,13 @@ no need to write code. just simple input the following definition of target blog
   
 ### Powerpage Markdown Documents
 
-[powerpage-md-documents](https://github.com/casualwriter/powerpage-md-document/) is a simple 
+[powerpage-md-documents](https://github.com/forkingengineer/powerpage-md-document/) is a simple 
 document framework to present documents by markdown files (e.g. github md file).  
 
 ![Powerpage Markdown Document](powerpage/pp-md-document.gif "width=80%")
 
 this project is written for Powerpage documenation, and transform to 
-[casual-markdown](https://github.com/casualwriter/casual-markdown) lately.
+[casual-markdown](https://github.com/forkingengineer/supa-markdown) lately.
    
    
    
@@ -242,7 +242,7 @@ this project is written for Powerpage documenation, and transform to
 
 ### Document DB Schema (by hta script)   {hta-db-schema}
    
-[hta-db-schema](https://github.com/casualwriter/hta-db-schema) is a simple hta script to document oracle/mysql tables.
+[hta-db-schema](https://github.com/forkingengineer/hta-db-schema) is a simple hta script to document oracle/mysql tables.
 
 For Oracle, it use OLEDB (driver=MSDAORA)
 For MySQL, it use ODBC for MySQL
@@ -252,7 +252,7 @@ It is a very simple hta script (275 lines). no dependance. Just click-and-run.
    
 ### CalibriPage - simple PHP content server {calibrePage}
 
-[calibrePage](https://github.com/casualwriter/calibrePage) is simple PHP content server for calibre.
+[calibrePage](https://github.com/forkingengineer/calibrePage) is simple PHP content server for calibre.
 
 * a single php file
 * self-contained, no depandence
@@ -261,7 +261,7 @@ It is a very simple hta script (275 lines). no dependance. Just click-and-run.
  
 ### Simple Web-Service by Node.js  {node-simple-ws}
 
-[node-simple-ws](https://github.com/casualwriter/node-simple-ws) is simple web-service program for general data retrieval.
+[node-simple-ws](https://github.com/forkingengineer/node-simple-ws) is simple web-service program for general data retrieval.
 
 * a single js file in about 60 lines code.
 * self-contained, no depandence
@@ -272,21 +272,21 @@ It is a very simple hta script (275 lines). no dependance. Just click-and-run.
   
 ## History and Activities
 
-* 2021/05/07, [Powerpage](https://github.com/casualwriter/powerpage) first release, beta version, v0.41 
-* 2021/05/14, Release Powerpage Markdown Editor. [powerpage-md-editor](https://github.com/casualwriter/powerpage-md-editor)
-* 2021/07/02, Release Powerpage web Crawle. [powerpage-web-crawler](https://github.com/casualwriter/powerpage-web-crawler)
-* 2021/10/06, code document framework. [powerpage-md-document](https://github.com/casualwriter/powerpage-md-document)
+* 2021/05/07, [Powerpage](https://github.com/forkingengineer/powerpage) first release, beta version, v0.41 
+* 2021/05/14, Release Powerpage Markdown Editor. [powerpage-md-editor](https://github.com/forkingengineer/powerpage-md-editor)
+* 2021/07/02, Release Powerpage web Crawle. [powerpage-web-crawler](https://github.com/forkingengineer /powerpage-web-crawler)
+* 2021/10/06, code document framework. [powerpage-md-document](https://github.com/forkingengineer/powerpage-md-document)
 * 2021/10/14, align powerpage packages to version, v0.60
 * 2021/10/21, setup github page. https://casualwriter.github.io/
 * 2021/11/03, move/update document to github page. https://casualwriter.github.io/powerpage
-* 2022/03/08, update document of powerpage - [interface](https://casualwriter.github.io/powerpage/?file=interface.md)
-* 2022/07/06, release [hta-db-schema](https://github.com/casualwriter/hta-db-schema) v0.70, for Oracle DB
-* 2022/07/11, release [hta-db-schema](https://github.com/casualwriter/hta-db-schema) v0.80, for mysql DB
-* 2022/07/21, release [casual-markdown](https://github.com/casualwriter/casual-markdown) v0.82
-* 2022/08/06, release [casual-markdown-doc](https://github.com/casualwriter/casual-markdown-doc) v0.80
+* 2022/03/08, update document of powerpage - [interface](https://forkingengineer.github.io/powerpage/?file=interface.md)
+* 2022/07/06, release [hta-db-schema](https://github.com/forkingengineer/hta-db-schema) v0.70, for Oracle DB
+* 2022/07/11, release [hta-db-schema](https://github.com/forkingengineer/hta-db-schema) v0.80, for mysql DB
+* 2022/07/21, release [casual-markdown](https://github.com/forkingengineer/supa-markdown) v0.82
+* 2022/08/06, release [casual-markdown-doc](https://github.com/forkingengineer/casual-markdown-doc) v0.80
 * 2022/08/11, release [casual-markdown-page](https://github.com/casualwriter/casual-markdown-page) v0.60
 * 2022/08/24, release [casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) v0.60
-* 2022/09/20, release [casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv)
-* 2022/11/20, rebuilt this page using [casual-markdown-page](https://github.com/casualwriter/casual-markdown-page)
-* 2022/12/09, release [powerchrome](https://github.com/casualwriter/powerchrome) v0.60
+* 2022/09/20, release [casual-markdown-cv](https://github.com/casualwriter/supa-markdown-cv)
+* 2022/11/20, rebuilt this page using [casual-markdown-page](https://github.com/forkingengineer/supa-markdown-page)
+* 2022/12/09, release [powerchrome](https://github.com/forkingengineer/powerchrome) v0.60
 
