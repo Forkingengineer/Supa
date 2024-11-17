@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------
 github    : https://github.com/forkingengineer 
-title     : supa
+title     : 
 menu      :    
   Home            : index.md
   Blog            : ./blog
