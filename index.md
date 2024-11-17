@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------
 github    : https://github.com/forkingengineer 
-title     : 
+title     : supa
 menu      :    
   Home            : index.md
   Blog            : ./blog
@@ -47,6 +47,14 @@ At UPTOPIA,we recognise these fundamentals and are working together with stakeho
 
 ## Going overboard with TechNokery.
 Its probably time we talked about our desire for end to end solutions in the marketplace of ideas we call. UPTOPIA.
+
+
+
+### Building Together:-Our mission impossible 
+
+####
+
+###
 
 
 
