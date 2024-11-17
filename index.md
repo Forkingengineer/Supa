@@ -4,9 +4,9 @@ title     : supa
 menu      :    
   Home            : index.md
   Blog            : ./blog
-  Casual-Markdown : ./casual-markdown
-  PowerPage       : ./powerpage
-  PowerChrome     : ./powerchrome
+  
+  
+  
 -----------------------------------------------------------------------------
 
 <style title="ukraine color theme">
