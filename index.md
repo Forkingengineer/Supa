@@ -30,7 +30,7 @@ h2, h3 { color:skyblue!important }
 
 ## About UPTOPIA 
 
-In today's  very dynamic world, staying afloat means building bridges and maintaining those that are worth saving .This  doesn't necessarily have to be about relationships only but a process of  positively engaging  mindsets, attitudes and character .
+In today's very dynamic world, staying afloat means building bridges and maintaining those that are worth saving .This  doesn't necessarily have to be about relationships only but a process of  positively engaging  mindsets, attitudes and character .
 
 This is done by tapping  into the internal technology that guides our footsteps in the dark as well as the outbound skills that coordinate the intricacies of daily life.
 
