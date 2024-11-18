@@ -51,7 +51,7 @@ h1           { border-bottom:1px dotted grey }
 
 
 ### june 2024
-*2024/06/24:joy.md
+*2024/06/23:[joy.md]
 
 
 ### Mar 2023
