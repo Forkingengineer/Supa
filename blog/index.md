@@ -27,6 +27,8 @@ h1           { border-bottom:1px dotted grey }
 <div id="md-post">
 # Featured
 
+## [joy.md]
+
 ## [Chat about ChatGPT](20230303-chat-chatgpt.md)
 > ![chatGPT](20230303-chat-chatgpt.png)
 > This is the second serious chat with chatGPT, which intent to let chatGPT to introduce itself.
@@ -51,7 +53,7 @@ h1           { border-bottom:1px dotted grey }
 
 
 ### june 2024
-*2024/06/23:[joy.md]
+*2024/06/23:[joy.md](20220623joy.md) {#joy}
 
 
 ### Mar 2023
