@@ -49,9 +49,18 @@ h1           { border-bottom:1px dotted grey }
 
 # Records/archieves
 
+
+### june 2024
+*2024/06/24:joy.md
+
+
 ### Mar 2023
 
 * 2023/03/03: [Chat about ChatGPT](20230303-chat-chatgpt.md) { #ai }
+
+
+
+
 
 ### Sep 2022
 
