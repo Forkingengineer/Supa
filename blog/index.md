@@ -54,7 +54,7 @@ Therez nothing written in black thst can be seen in blue okay .That doesnt make 
 
 
 ### june 2024
-*2024/06/24:[joy.md](20220623joy.md) {#kwenu}
+* 2024/06/24:[joy.md](20220624joy.md) {#kwenu}
 
 
 ### Mar 2023
