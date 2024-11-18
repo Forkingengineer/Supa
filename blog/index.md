@@ -1,12 +1,12 @@
 -----------------------------------------------------------------------------
-github     : https://github.com/casualwriter
-title      : Casualwriter's Blog
-subtitle   : Simple is the best
+github     : https://github.com/forkingengineer
+title      : supa
+subtitle   : Building together
 nav-group  : new-5, tags, months
 nav-width  : 380px
 menu       : 
    Home    : ?
-   GitHub  : https://github.com/casualwriter/casual-markdown-blog
+   GitHub  : https://github.com/forkingengineer/supa
    Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
@@ -47,7 +47,7 @@ h1           { border-bottom:1px dotted grey }
 > host on github, or other static web hosting  
 
 
-# Archives
+# Records/archieves
 
 ### Mar 2023
 
