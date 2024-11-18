@@ -27,7 +27,7 @@ h1           { border-bottom:1px dotted grey }
 <div id="md-post">
 # Featured
 
-## [joy.md]
+## [joy.md](20240624-joy.md)
 Therez nothing written in black thst can be seen in blue okay .That doesnt make sense.
 
 ## [Chat about ChatGPT](20230303-chat-chatgpt.md)
@@ -54,7 +54,7 @@ Therez nothing written in black thst can be seen in blue okay .That doesnt make 
 
 
 ### june 2024
-*2024/06/24:[joy.md](20220623joy.md) {#joy}
+*2024/06/24:[joy.md](20220623joy.md) {#kwenu}
 
 
 ### Mar 2023
