@@ -28,6 +28,7 @@ h1           { border-bottom:1px dotted grey }
 # Featured
 
 ## [joy.md]
+Therez nothing written in black thst can be seen in blue okay .That doesnt make sense.
 
 ## [Chat about ChatGPT](20230303-chat-chatgpt.md)
 > ![chatGPT](20230303-chat-chatgpt.png)
@@ -53,7 +54,7 @@ h1           { border-bottom:1px dotted grey }
 
 
 ### june 2024
-*2024/06/23:[joy.md](20220623joy.md) {#joy}
+*2024/06/24:[joy.md](20220623joy.md) {#joy}
 
 
 ### Mar 2023
