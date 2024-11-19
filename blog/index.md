@@ -27,6 +27,11 @@ h1           { border-bottom:1px dotted grey }
 <div id="md-post">
 # Featured
 
+
+
+## [socialnetworks.md](20240822-socialnetworks.md)
+
+
 ## [Techtalk.md](20240120-techtalk.md)
 
 In this article,we dive into the disscussion of how to lever up or couple success with the great enabler that is to say;Technology.
@@ -55,6 +60,10 @@ Therez nothing written in black thst can be seen in blue okay .That doesnt make 
 
 
 # Records/archieves
+
+### august 2024
+
+* 2024/08/22:[socialnetworks.md](20240822socialnetworks.md) {#africa}
 
 
 ### june 2024
