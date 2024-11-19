@@ -62,7 +62,7 @@ Therez nothing written in black thst can be seen in blue okay .That doesnt make 
 
 
 ### January 2024
-*2024/01/20:[Techtalk.md](20240120Techtalk.md) {Talking points}
+*2024/01/20:[Techtalk.md](20240120Techtalk.md) {#Talking points}
 
 
 ### Mar 2023
