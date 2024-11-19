@@ -30,6 +30,8 @@ h1           { border-bottom:1px dotted grey }
 
 
 ## [socialnetworks.md](20240822-socialnetworks.md)
+In this segment we examine social media and content strategies in general.
+
 
 
 ## [Techtalk.md](20240120-techtalk.md)
