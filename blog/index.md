@@ -27,6 +27,10 @@ h1           { border-bottom:1px dotted grey }
 <div id="md-post">
 # Featured
 
+## [Techtalk.md](20240120-techtalk.md)
+
+In this article,we dive into the disscussion of how to lever up or couple success with the great enabler that is to say;Technology.
+
 ## [joy.md](20240624-joy.md)
 Therez nothing written in black thst can be seen in blue okay .That doesnt make sense.
 
@@ -55,6 +59,10 @@ Therez nothing written in black thst can be seen in blue okay .That doesnt make 
 
 ### june 2024
 * 2024/06/24:[joy.md](20220624joy.md) {#kwenu}
+
+
+### January 2024
+*2024/01/20:[Techtalk.md](20240120Techtalk.md) {Talking points}
 
 
 ### Mar 2023
