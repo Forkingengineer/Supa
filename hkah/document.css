@@ -4,16 +4,16 @@ img  { margin:auto; max-width:990px; padding: 2px 20px }
 h1, h2 { border-bottom: 1px solid grey; margin:20px 0px; color:#66e; padding:8px 1px; page-break-before:always; }
 h3, h4 { margin-top:24px 0px; padding:8px 1px; color:#66a; } 
 a { text-decoration:none; } a:hover{ background:lightgreen }
-pre, code { font-family:"Segoe UI Mono",Consolas,Monaco,monospace; background:#f0f0f0; }
+pre, code { font-family:"Segoe UI Mono",Consolas,Monaco,monospace; background:#ffffff; }
 pre  {  margin:12px; border:1px solid #ddd; padding:8px; white-space: pre-wrap; }
 code { color:navy; border-radius:2px; padding:1px 4px; }
 blockquote { font-family:sans-serif,calibri; background:#f0f0f0; border-left:5px solid grey; padding-left:8px  }
 table, th, td { border-collapse:collapse; border:1px solid #ccc; padding:4px 8px;}
-th   { background:#eee; text-align:left }
-ins { color:#890604 } 
-rem { color:#198964 }
+th   { background:#000000; text-align:left }
+ins { color:#ffffff} 
+rem { color:#ffffff}
 
-#toc { background: rgba(210,210,210,0.8); display:none; border:1px solid grey; }
+#toc { background: F000000; display:none; border:1px solid grey; }
 #toc { position:fixed; right:8px; top:8px; padding:4px; font-size:12px }
 #toc ul  { padding: 0 12px; }
 #toc h3  { color:#a06; border-bottom:1px dotted  grey }
