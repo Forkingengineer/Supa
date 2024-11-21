@@ -16,12 +16,12 @@ menu       :
 #right-panel { left:0; border-right:1px solid grey; right:calc({{nav-width}} + 20px) }
 #md-post     { max-width:880px; margin:auto }
 h1           { border-bottom:1px dotted grey }
-.nav-post a  { color: teal }
-.nav-tag  a  { color: #06c }
-.nav-month a { color: grey }
-.post-date   { font-size:10px; font-weight:400; color:#aaa }
+.nav-post a  { color: black}
+.nav-tag  a  { color: #000000 }
+.nav-month a { color: black}
+.post-date   { font-size:10px; font-weight:400; color:#FFFFFF }
 .post-title  { font-size:16px; }
-.post-tags   { left-margin:20px; padding:4px; font-size:10px; color:green; font-weight:400 }
+.post-tags   { left-margin:20px; padding:4px; font-size:10px; color:white; font-weight:400 }
 </style>
 
 <div id="md-post">
