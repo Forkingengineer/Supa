@@ -1,9 +1,9 @@
 body { font-family:Verdana,sans-serif; font-size:14px; line-height:1.5; margin:0; display:none }
 img  { margin:auto; max-width:990px; padding: 2px 20px }
 .container  { margin:auto; max-width:1024px; padding:4px; }
-h1, h2 { border-bottom: 1px solid grey; margin:20px 0px; color:#66e; padding:8px 1px; page-break-before:always; }
-h3, h4 { margin-top:24px 0px; padding:8px 1px; color:#66a; } 
-a { text-decoration:none; } a:hover{ background:lightgreen }
+h1, h2 { border-bottom: 1px solid grey; margin:20px 0px; color:#000000; padding:8px 1px; page-break-before:always; }
+h3, h4 { margin-top:24px 0px; padding:8px 1px; color:#000000; } 
+a { text-decoration:none; } a:hover{ background:black }
 pre, code { font-family:"Segoe UI Mono",Consolas,Monaco,monospace; background:#ffffff; }
 pre  {  margin:12px; border:1px solid #ddd; padding:8px; white-space: pre-wrap; }
 code { color:navy; border-radius:2px; padding:1px 4px; }
@@ -13,16 +13,16 @@ th   { background:#000000; text-align:left }
 ins { color:#ffffff} 
 rem { color:#ffffff}
 
-#toc { background: F000000; display:none; border:1px solid grey; }
+#toc { background: 0000000; display:none; border:1px solid grey; }
 #toc { position:fixed; right:8px; top:8px; padding:4px; font-size:12px }
 #toc ul  { padding: 0 12px; }
 #toc h3  { color:#a06; border-bottom:1px dotted  grey }
 #toc .H2 { list-style-type:none; font-weight:600; margin:4px; }
 #toc .H3 { margin-left:2em;  }
 #toc .H4 { margin-left:4em;  }
-#toc .active { color:#a06 }
+#toc .active { color:#000000}
                                                                                                 
-header { font-size:32px; margin-bottom:24px; padding:16px; background:#a06; color:white }
+header { font-size:32px; margin-bottom:24px; padding:16px; background:#000000; color:black }
 footer { display: block; position: fixed; bottom: 0pt; right:60px;  }
 footer::after { counter-increment: page; content-dummy: " Page " counter(page); }
 
