@@ -5,8 +5,8 @@ This chunk is to fix Bootstrap so that the Markdown output looks good
 *******************************************************************/
 body  { font-family:Verdana,sans-serif; font-size:14px; margin:0; padding:8px; line-height:140%; }
 xmp, sql, psw {  display: none; }
-code { background:#eee; padding:2px; }
-a    { text-decoration:none } a:hover{ background:lightgreen }
+code { background:#000000; padding:2px; }
+a    { text-decoration:none } a:hover{ background:black }
 h1, h2 { border-bottom: 1px solid grey; margin:40px 0px; color:#66e; padding:8px 1px; page-break-before: always; }
 h3, h4 { margin-top:24px 0px; padding:8px 1px; color:#66e; } 
 table, th, td { border-collapse:collapse; border:1px solid #ccc; padding:4px 8px;}
@@ -21,7 +21,7 @@ img  { margin:auto; max-width:990px; padding: 2px 10px }
 #toc .H3 { margin-left:2em }
 #toc .H4 { margin-left:4em }
                                                                                                 
-header { font-size:32px; margin-bottom:24px; padding:20px; background:#a06; color:white }
+header { font-size:32px; margin-bottom:24px; padding:20px; background:#000000; color:black }
 footer { display: block; position: fixed; bottom: 0pt; right:60px;  }
 footer::after { counter-increment: page; content-dummy: " Page " counter(page); }
 
