@@ -9,7 +9,7 @@ menu      :
   
 -----------------------------------------------------------------------------
 
-<style title="ukraine color theme">
+<style title=" Dark theme mode ">
 #header { background: linear-gradient(to bottom right, #06c, #fc0); }
 body { background:#333!important; color:#bbb!important; FONT-FAMILY:CONSOLAS,ARIAL; } 
 pre, code { background:#444!important; color:#ddd!important; border-radius:6px;}
