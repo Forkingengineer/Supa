@@ -444,7 +444,7 @@ body {
     margin: auto;
     max-width: 39rem;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #000000;
     color: #333;
     font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
     font-size: 18px;
@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #888;
+    color: 000000;
     transition: color .2s
 }
 
@@ -480,7 +480,7 @@ hr {
 }
 
 hr::before {
-    color: #888;
+    color: #000000;
     margin-left: 2rem;
     content: "•••";
     font-size: 1rem;
