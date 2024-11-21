@@ -5,30 +5,30 @@ INPUT,DIV {font-family: "Verdana", "Arial", "sans-serif";  font-size:12px; }
 P,B {font-family: "Arial", "Verdana", "sans-serif";  font-size:12px; }
 PRE { margin:2px 2px 2px 2px; font-family: "Arial", "Verdana", "sans-serif";  font-size:12px; }
 
-TH { font-family: "Arial", "Verdana", "sans-serif"; font-weight:bold; font-size:12px; background:#DDEEDD; }
+TH { font-family: "Arial", "Verdana", "sans-serif"; font-weight:bold; font-size:12px; background:#000000; }
 TD { font-family: "Arial", "Verdana", "sans-serif"; font-size:12px; }
-caption { font-family: "Arial", "Verdana", "sans-serif"; font-size:12px; background:#F0F088;   
+caption { font-family: "Arial", "Verdana", "sans-serif"; font-size:12px; background:#000000;   
           border-style:ridge; border-width:THIN; border-bottom-style:none;  }
 sub, sup { font-size:11px; }
 big { color:darkblue; font-size:14px; font-weight:bold; font-family:Arial,Verdana,sans-serif; }
 
-A:link { color:#111155;  text-decoration: none; border-bottom:1px dashed; }
-A:visited { color:#551111; text-decoration: none; border-bottom:1px dashed;}
-A:hover { background-color:skyblue; text-decoration:none; border-bottom:1px dashed; }
+A:link { color:#000000;  text-decoration: none; border-bottom:1px dashed; }
+A:visited { color:#000000; text-decoration: none; border-bottom:1px dashed;}
+A:hover { background-color:black; text-decoration:none; border-bottom:1px dashed; }
 
 h1.pagebreak {page-break-before: always; color:#663322; 
      text-align:left; font-size:20px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; border-bottom:2px solid 0;}
 
-h1 { color:#663322; text-align:left; font-size:20px; font-weight:bold; 
+h1 { color:#000000; text-align:left; font-size:20px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; border-bottom:2px solid 333;}
-h2 { color:#882200; text-align:left; font-size:18px; font-weight:bold; 
+h2 { color:#00000; text-align:left; font-size:18px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; }
-h3 { color:#555500; text-align:left; font-size:16px; font-weight:bold; 
+h3 { color:#000000; text-align:left; font-size:16px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; }
-h4 { color:darkblue; text-align:left; font-size:14px; font-weight:bold; 
+h4 { color:black; text-align:left; font-size:14px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; }
-h5 { color:#220022; text-align:left; font-size: 13px; font-weight:bold; 
+h5 { color:#,000000; text-align:left; font-size: 13px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; }
 h6 { color:black; text-align:left; font-size: 12px; font-weight:bold; 
      font-family: "Arial", "Verdana", "sans-serif"; }
@@ -37,11 +37,11 @@ blockquote { border: 1px solid $333; border-left: 5px solid #9999BB;
                 background-color:#E0E0B0; margin: 3px 30px 3px 5px; }
 
 code { display: block; font-family: "Courier New", "system"; font-size: 9pt;
-       background: #F0F0F0;  border: 1px solid #ccc; 
+       background: #00000;  border: 1px solid #ccc; 
         padding: 5px 5px 5px 20px; margin: 10px 5px 5px 20px; }
 
 XMP { font-family: "Courier New", "system"; font-size: 9pt; 
-      background: #F0F0F0;  border: 1px solid #ccc; border-left: 5px solid #AAAAAA; 
+      background: #000000;  border: 1px solid #ccc; border-left: 5px solid #AAAAAA; 
       padding: 5px 5px 5px 20px; margin: 10px 5px 5px 20px; }
       
 blockquote.s0 { border: 1px solid $333; border-left: 5px solid #9999BB; 
