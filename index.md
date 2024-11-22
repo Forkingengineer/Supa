@@ -10,8 +10,8 @@ menu      :
 -----------------------------------------------------------------------------
 
 <style title=" Dark theme mode ">
-#header { background: linear-gradient(to bottom right, #06c, #fc0); }
-body { background:#333!important; color:#bbb!important; FONT-FAMILY:CONSOLAS,ARIAL; } 
+#header { background: linear-gradient(to bottom right, #000000, #000000); }
+body { background:#000000!important; color:#000000!important; FONT-FAMILY:CONSOLAS,ARIAL; } 
 pre, code { background:#444!important; color:#ddd!important; border-radius:6px;}
 a { color:#eee; border-bottom:1px dashed grey } 
 ul { margin:8px }
